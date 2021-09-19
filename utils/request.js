@@ -39,6 +39,6 @@ export default {
   },
   fetchAnimation: {
     title: "Animation",
-    url: `/discover/movie?api_key=${API_KEY}&with_genres=16`, 
+    url: `/discover/movie?api_key=${API_KEY}&with_genres=16`,
   },
 };
